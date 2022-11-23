@@ -6,7 +6,7 @@ Two other layers of choropleth maps on basic demographics are also added to the 
 
 You can explore the map [here](HK_libraries.html).
 
-https://htmlpreview.github.io/?https://github.com/springalrilmay/CommandLineGIS/blob/main/HK_libraries.html
+https://htmlpreview.github.io/?https://github.com/springalrilmay/CommandLineGIS/main/HK_libraries.html
 
 https://rawcdn.githack.com/springalrilmay/CommandLineGIS/blob/main/HK_libraries.html
 
