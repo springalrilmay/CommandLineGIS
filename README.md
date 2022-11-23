@@ -7,4 +7,4 @@ Two other layers of choropleth maps on basic demographics are also added to the 
 
 <iframe src="HK_libraries.html" height="855" width="95%"></iframe>
 
-You can explore the map [here](HK_libraries.html). 
+You can explore the map [here](HK_libraries.html).
