@@ -1,6 +1,6 @@
 ## PS8: Interative Web Map
 
-This is a sample map showing the locations of public libraries in HK.
+This is a sample map showing the locations of public libraries in Hong Kong.
 
 Two other layers of choropleth maps on basic demographics are also added to the map. The layers could be turned on and off through the contorl panel.
 
